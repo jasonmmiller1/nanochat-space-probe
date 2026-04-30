@@ -4,6 +4,9 @@
 
 ---
 
+> Based on [karpathy/nanogpt](https://github.com/karpathy/nanogpt). 
+> This fork extends the architecture with mid-training personality conditioning.
+
 ## The Idea
 
 Most personality in AI today is applied at inference time. You write a system prompt, you shape the model's tone, and you hope it holds. It usually does, until it does not. The persona is a layer on top of the model, not part of it.
