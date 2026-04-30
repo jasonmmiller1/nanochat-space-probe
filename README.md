@@ -85,9 +85,9 @@ This is a research direction I intend to continue.
 ## Getting Started
 
 ```bash
-git clone https://github.com/jasonmmiller1/UMBC-DATA606-Capstone
+git clone [https://github.com/jasonmmiller1/nanochat-space-probe]
 cd nanochat
-pip install -r requirements.txt
+bash speedrun.sh
 ```
 
 Refer to the training configuration and data preparation scripts for details on reproducing the conditioning pipeline.
